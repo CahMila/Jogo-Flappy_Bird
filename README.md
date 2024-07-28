@@ -1,8 +1,11 @@
 # Flappy Bird Clone
 
-Este é um clone do popular jogo Flappy Bird, desenvolvido em Python usando a biblioteca Pygame. O projeto foi desenvolvido no PyCharm, um ambiente de desenvolvimento integrado (IDE) para Python.
+Este é um clone do popular jogo Flappy Bird, desenvolvido em Python usando a biblioteca Pygame. <br>
+O projeto foi desenvolvido no PyCharm, um ambiente de desenvolvimento integrado (IDE) para Python.
 
-![Flappy Bird Screenshot](imagem.png)
+<div style="text-align: center;">
+  <img src="image.png" alt="Flappy Bird Screenshot" width="600"/>
+</div>
 
 ## Funcionalidades
 
@@ -21,6 +24,3 @@ Antes de executar o projeto, você precisa ter Python e Pygame instalados no seu
    python --version
    pip --version
 
-
-
-<img src = "imagen.png">
