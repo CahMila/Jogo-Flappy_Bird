@@ -76,7 +76,7 @@ class Passaro:
             self.imagem = self.IMGS[0]
             self.contagem_imagem = 0
 
-        # se o passaro tiver caindo não vai bater asas
+        # se o passaro tiver caindo não vaigit bater asas
 
         if self.angulo <= -80:
             self.imagem = self.IMGS[1]
